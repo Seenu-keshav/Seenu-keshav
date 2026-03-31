@@ -93,13 +93,17 @@ SAP ABAP (ERP Backend Development)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seenu-keshav&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-keshav&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Seenu-keshav&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Seenu-keshav/Seenu-keshav/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
