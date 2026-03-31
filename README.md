@@ -1,26 +1,87 @@
-# Hi, I'm Keshav Kumar 👋
+# 👋 Hi, I'm Keshav Kumar  
 
-🚀 Backend Developer (Django)  
-💻 Building scalable REST APIs  
-🎓 CSE Graduate | Java Full Stack + AI  
-
----
-
-## 🔧 Tech Stack
-- Backend: Django, Django REST Framework
-- Frontend: React, TypeScript
-- Database: PostgreSQL, MySQL
-- Tools: Git, Docker (basic)
+🚀 Full Stack Developer (Backend + Frontend)  
+⚡ Building scalable systems & modern web applications  
+🎓 CSE Graduate | Python • Java • TypeScript + AI  
 
 ---
 
-## 🚀 Projects
-🔹 Dispatch & Invoicing System (Django APIs)  
-🔹 Authentication System (JWT)  
-🔹 Drag & Drop UI (React + TS)
+## 🧑‍💻 About Me  
+
+💼 Backend Developer at Gizmo Space  
+🧠 Full Stack Developer with strong backend + modern frontend skills  
+⚙️ I build scalable APIs AND interactive user interfaces  
+🔥 Focused on performance, clean architecture & real-world systems  
+🤖 Integrating AI into full stack applications  
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+`Python` `Java` `JavaScript` `TypeScript`  
+
+### ⚙️ Backend  
+`Django` `Django REST Framework` `Spring Boot`  
+
+### 🎨 Frontend  
+`React` `TypeScript` `HTML` `CSS`  
+
+### 🗄️ Database  
+`PostgreSQL` `MySQL`  
+
+### 🧰 Tools & Technologies  
+`Git` `Docker` `Postman` `Linux`  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 Full Stack ERP System (KPI Based)  
+- Built backend APIs using Django REST Framework  
+- Developed frontend using React + TypeScript  
+- Implemented KPI tracking dashboard  
+- Optimized performance for real-time usage  
+
+### 🔹 AI Powered Web Application  
+- Integrated AI features into full stack system  
+- Smart automation & intelligent workflows  
+- Built responsive frontend + scalable backend  
+
+### 🔹 Scalable API + Frontend Dashboard  
+- Designed REST APIs with clean architecture  
+- Built interactive UI using React + TypeScript  
+- Focused on performance & user experience  
+
+---
+
+## 📊 GitHub Stats  
+
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seenu-keshav&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-keshav&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Seenu-keshav&theme=tokyonight)  
+
+---
+
+## 🏆 What I Focus On  
+
+✔️ Full Stack Development (Frontend + Backend)  
+✔️ Scalable System Design  
+✔️ Clean Code & Architecture  
+✔️ Performance Optimization  
+✔️ AI Integration  
+
+---
+
+ ## 📫 Contact Me
 📧 keshavdss851122@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/01keshav-kumar-2
+
+---
+
+## ⚡ Developer Mindset  
+
+```text
+Build Frontend. Power Backend. Scale Everything. 🚀
