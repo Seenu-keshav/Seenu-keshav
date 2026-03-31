@@ -9,7 +9,6 @@
 I’m a passionate **Backend & Full Stack Developer** who loves building scalable systems, high-performance APIs, and AI-powered applications.
 I work across multiple technologies and enjoy solving real-world problems using clean architecture and efficient code.
 
-💡 Currently exploring: **SAP ABAP + API Integration (ERP Systems)**
 
 ---
 
