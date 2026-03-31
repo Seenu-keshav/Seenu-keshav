@@ -8,6 +8,7 @@
 
 ## 🧑‍💻 About Me  
 Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | India
+
 💼 Backend Developer at Gizmo Space  
 🧠 Full Stack Developer with strong backend + modern frontend skills  
 ⚙️ I build scalable APIs AND interactive user interfaces  
