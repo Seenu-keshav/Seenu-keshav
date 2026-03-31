@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keshav Kumar  
 
-Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | India  
+ Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | India  
 ⚡ Building scalable systems & modern web applications  
 🎓 CSE Graduate | Python • Java • TypeScript + AI  
 
