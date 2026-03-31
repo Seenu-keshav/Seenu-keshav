@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Keshav Kumar  
 
- Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | India  
+ Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | API Developer | India 
 ⚡ Building scalable systems & modern web applications  
 🎓 CSE Graduate | Python • Java • TypeScript + AI  
 
 ---
 
 ## 🧑‍💻 About Me  
-Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | India
+Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | API Developer | India
 
 💼 Backend Developer at Gizmo Space  
 🧠 Full Stack Developer with strong backend + modern frontend skills  
