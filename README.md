@@ -1,81 +1,106 @@
-# 👋 Hi, I'm Keshav Kumar  
+# 👋 Hi, I'm Keshav Kumar
 
-Full Stack Developer | Backend Developer | Django | React | TypeScript | Java | API Developer | India  
-
-🚀 Building scalable systems & modern web applications  
-⚡Specialized in building high-performance APIs and clean, scalable architectures  
-🤖 Integrating AI into real-world applications  
+🚀 **Backend Developer | Java Full Stack | Python | AI | ERP (SAP ABAP)**
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧠 About Me
 
-Full Stack Developer with strong expertise in backend and modern frontend technologies.  
+I’m a passionate **Backend & Full Stack Developer** who loves building scalable systems, high-performance APIs, and AI-powered applications.
+I work across multiple technologies and enjoy solving real-world problems using clean architecture and efficient code.
 
-💼 Backend Developer at Gizmo Space  
-🧠 Skilled in Python (Django), Java & TypeScript  
-⚙️ Building scalable APIs and interactive UI (React)  
-🔥 Focused on performance, system design & clean architecture  
-🤖 Passionate about AI integration in full stack systems  
+💡 Currently exploring: **SAP ABAP + API Integration (ERP Systems)**
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚡ Tech Stack
 
-### 💻 Languages  
-`Python` `Java` `JavaScript` `TypeScript`  
+### 🚀 Languages
 
-### ⚙️ Backend Development  
-`Django` `Django REST Framework` `Spring Boot`  
+Java • Python • JavaScript • C++
 
-### 🎨 Frontend Development  
-`React` `TypeScript` `HTML` `CSS`  
+### 🎨 Frontend
 
-### 🗄️ Database  
-`PostgreSQL` `MySQL`  
+HTML • CSS • Advanced JavaScript • React.js • Next.js
 
-### 🧰 Tools & Technologies  
-`Git` `Docker` `Postman` `Linux`  
+### 🛠️ Backend
 
----
+Spring Boot • Django • Hibernate • JDBC • REST APIs
 
-## 🚀 Projects  
+### 🧠 Advanced Concepts
 
-### 🔹 Full Stack ERP System (KPI Based)  
-- Developed scalable backend using Django REST Framework  
-- Built responsive frontend using React + TypeScript  
-- Implemented KPI (Key Performance Indicator) tracking system  
-- Optimized APIs for real-time performance  
+OOP • Multithreading • Socket Programming • Reflection • Collections
 
-### 🔹 AI Powered Web Application  
-- Integrated AI into full stack system  
-- Automated workflows & intelligent decision making  
-- Designed scalable backend + modern UI  
+### 🗄️ Database
 
-### 🔹 Scalable API & Dashboard System  
-- Designed secure REST APIs  
-- Built interactive frontend dashboard  
-- Focused on performance & clean architecture  
+MySQL • PostgreSQL • SQL
+
+### 🔥 Tools & Tech
+
+Maven • JSP • JSTL • Java EE • Design Patterns
+
+### 🤖 AI & Integration
+
+Generative AI • API Integration • Scalable Systems
+
+### 🏢 ERP
+
+SAP ABAP (ERP Backend Development)
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seenu-keshav&show_icons=true&theme=tokyonight&hide_border=true)
+🔹 **Backend Developer @ Gizmo Space**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-keshav&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Seenu-keshav&theme=tokyonight&hide_border=true)
+* Built scalable APIs using Django
+* Optimized database performance
+* Designed real-time backend systems
 
 ---
 
-## 🏆 What I Focus On  
+## 🚀 Projects
 
-✔️ Full Stack Development (Frontend + Backend)  
-✔️ Scalable System Design  
-✔️ Clean Code & Architecture  
-✔️ Performance Optimization  
-✔️ AI Integration  
+### 🔥 AI-Powered E-Commerce
+
+* Smart recommendation system
+* Scalable backend APIs
+* AI-driven user experience
+
+### 📊 Dashboard System
+
+* Real-time analytics
+* Data visualization backend
+
+### 🔗 API Development
+
+* Designed multiple REST APIs
+* Focused on performance & security
+
+### 🏢 ERP Backend (SAP ABAP)
+
+* Inventory + Order Management
+* API Integration with external systems
+
+---
+
+## 🏆 Achievements
+
+* 🎓 Cisco Certified (JavaScript, Python, C++)
+* 🤖 AI & ML Internship – NIELIT Patna
+* 💻 Built multiple real-world applications
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -87,7 +112,6 @@ Full Stack Developer with strong expertise in backend and modern frontend techno
 
 ---
 
-## ⚡ Developer Mindset  
+## 💡 Quote
 
-```text
-Build Frontend. Power Backend. Scale Everything. 🚀
+*"Building scalable systems and intelligent solutions for the future."* 🚀
