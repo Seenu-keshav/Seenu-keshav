@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keshav Kumar
 
-🚀 **Backend Developer | Full Stack Engineer | API Specialist**
+🚀 **Backend Developer | Full Stack Developer | API Specialist**
 
 ---
 
