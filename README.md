@@ -1,93 +1,74 @@
 # 👋 Hi, I'm Keshav Kumar
 
-🚀 **Backend Developer | Java Full Stack | Python | AI | ERP (SAP ABAP)**
+🚀 **Backend Developer | Full Stack Engineer | API Specialist**
 
 ---
 
-## 🧠 About Me
+## 💼 About Me
 
-I’m a passionate **Backend & Full Stack Developer** who loves building scalable systems, high-performance APIs, and AI-powered applications.
-I work across multiple technologies and enjoy solving real-world problems using clean architecture and efficient code.
+I am a **results-driven Backend Developer** with hands-on experience in building scalable APIs and real-world applications.
+I specialize in **Java & Python-based backend systems**, with strong knowledge of **databases, microservices, and system design**.
 
-
----
-
-## ⚡ Tech Stack
-
-### 🚀 Languages
-
-Java • Python • JavaScript • C++
-
-### 🎨 Frontend
-
-HTML • CSS • Advanced JavaScript • React.js • Next.js
-
-### 🛠️ Backend
-
-Spring Boot • Django • Hibernate • JDBC • REST APIs
-
-### 🧠 Advanced Concepts
-
-OOP • Multithreading • Socket Programming • Reflection • Collections
-
-### 🗄️ Database
-
-MySQL • PostgreSQL • SQL
-
-### 🔥 Tools & Tech
-
-Maven • JSP • JSTL • Java EE • Design Patterns
-
-### 🤖 AI & Integration
-
-Generative AI • API Integration • Scalable Systems
-
-### 🏢 ERP
-
-SAP ABAP (ERP Backend Development)
+💡 I focus on writing **clean, optimized, and production-ready code** that solves real business problems.
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-🔹 **Backend Developer @ Gizmo Space**
+### 🚀 Backend
 
-* Built scalable APIs using Django
-* Optimized database performance
-* Designed real-time backend systems
+* Java (Spring Boot, Hibernate)
+* Python (Django, REST APIs)
 
----
+### 🌐 Frontend
 
-## 🚀 Projects
+* JavaScript (ES6+), Advanced Js, TypeScript, Next js
+* React.js
 
-### 🔥 AI-Powered E-Commerce
+### 🗄 Databases
 
-* Smart recommendation system
-* Scalable backend APIs
-* AI-driven user experience
+* MySQL
+* PostgreSQL
 
-### 📊 Dashboard System
+### ⚙️ Tools & Technologies
 
-* Real-time analytics
-* Data visualization backend
-
-### 🔗 API Development
-
-* Designed multiple REST APIs
-* Focused on performance & security
-
-### 🏢 ERP Backend (SAP ABAP)
-
-* Inventory + Order Management
-* API Integration with external systems
+* Git & GitHub
+* REST API Development
+* Microservices Architecture
+* Maven
+* Postman
 
 ---
 
-## 🏆 Achievements
+## 🔥 What I Do
 
-* 🎓 Cisco Certified (JavaScript, Python, C++)
-* 🤖 AI & ML Internship – NIELIT Patna
-* 💻 Built multiple real-world applications
+* ⚡ Build scalable backend systems
+* 🔗 Design and develop RESTful APIs
+* 🧠 Solve complex problems using DSA (Java)
+* 🏗 Work on microservices-based architecture
+* 📊 Design optimized database schemas
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 AI-Powered E-Commerce Platform
+
+* Intelligent product recommendations
+* Secure backend APIs
+* Full-stack architecture
+
+### ⚙️ Spring Boot Microservices
+
+* API Gateway
+* Service Registry (Eureka)
+* Distributed system design
+
+### 💾 Database Engineering (MySQL & PostgreSQL)
+
+* Query optimization
+* Schema design
+* Real-world use cases
 
 ---
 
@@ -101,9 +82,12 @@ SAP ABAP (ERP Backend Development)
 
 ---
 
-## 🔥 Contribution Snake
+## 🎯 Current Focus
 
-![Snake animation](https://github.com/Seenu-keshav/Seenu-keshav/blob/output/github-contribution-grid-snake.svg)
+* Advanced Backend Development
+* System Design
+* Scalable Microservices
+* AI Integration in Applications and Software
 
 ---
 
@@ -113,8 +97,13 @@ SAP ABAP (ERP Backend Development)
 📧 Email: keshavdss851122@gmail.com  
 💻 GitHub: https://github.com/Seenu-keshav  
 
+* 💼 Open to Backend & Full Stack Opportunities
+* 🌍 Building real-world scalable systems
+
 ---
 
-## 💡 Quote
+## ⚡ Fun Fact
 
-*"Building scalable systems and intelligent solutions for the future."* 🚀
+> I don’t just write code — I build systems that scale 🚀
+
+
