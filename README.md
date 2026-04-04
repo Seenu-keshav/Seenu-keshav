@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Keshav Kumar
 
+![WhatsApp Image 2026-04-04 at 2 36 23 AM](https://github.com/user-attachments/assets/a9fcf35d-7b4b-4def-b655-418cf9a660a0)
+
+
 🚀 **Backend Developer | Full Stack Developer | API Specialist**
 
 ---
@@ -10,9 +13,6 @@ I am a **results-driven Backend Developer** with hands-on experience in building
 I specialize in **Java & Python-based backend systems**, with strong knowledge of **databases, microservices, and system design**.
 
 💡 I focus on writing **clean, optimized, and production-ready code** that solves real business problems.
-
-![WhatsApp Image 2026-04-04 at 2 36 23 AM](https://github.com/user-attachments/assets/ea968b19-fda4-4253-9f85-dde54a65c289)
-
 
 ---
 
