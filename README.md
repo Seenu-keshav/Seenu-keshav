@@ -11,6 +11,9 @@ I specialize in **Java & Python-based backend systems**, with strong knowledge o
 
 💡 I focus on writing **clean, optimized, and production-ready code** that solves real business problems.
 
+![WhatsApp Image 2026-04-04 at 2 36 23 AM](https://github.com/user-attachments/assets/ea968b19-fda4-4253-9f85-dde54a65c289)
+
+
 ---
 
 ## 🛠 Tech Stack
