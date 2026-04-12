@@ -4,25 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Keshav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Full%20Stack%20|%20AI%20Builder&descAlignY=55&descSize=18" />
 </p>
 
-# 🚀 Keshav Kumar | Backend Developer | Full Stack Engineer | AI Integrator
+# 🚀 Keshav Kumar
 
 <div align="center">
 
-<!-- 🔥 Animated Typing Intro -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+🔥;Full+Stack+Engineer+🚀;AI+Integrator+🤖;Building+Scalable+Systems+💡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Full+Stack+Engineer;AI+System+Builder;Scalable+Architecture+Focused" />
 
 <br/><br/>
-
-<!-- 🧿 Profile Views Counter -->
 
 <img src="https://komarev.com/ghpvc/?username=Seenu-Keshav&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br/><br/>
-
-<!-- ⚡ COOL DEV GIF -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 </div>
 
@@ -30,69 +20,61 @@
 
 ## 🧠 About Me
 
-<div align="center">
+🚀 Backend Developer focused on building scalable, real-world systems with AI integration.
 
-✨ *Turning real-world problems into scalable software systems* ✨
-
-</div>
-
-* 💼 Backend Developer & IT Lead at **Gizmo Space**
-* ⚙️ Expert in **Django, Spring Boot & System Design**
-* 🤖 Building **AI-powered real-world applications**
-* 🚗 Working on a **confidential EV infrastructure system**
-* 🎯 Obsessed with **performance + scalability + clean architecture**
+* 💼 Backend Developer & IT Lead at Gizmo Space
+* ⚙️ Django | Spring Boot | System Design
+* 🤖 AI-powered production systems
+* 🚗 EV infrastructure (confidential)
+* 🎯 Performance | Scalability | Clean Architecture
 
 ---
 
-## 🏅 Badges & Coding Profiles
+## 💼 Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-green?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank" />
-</p>
+* 🏢 Backend Developer & IT Lead @ Gizmo Space
+* ⚡ Built high-performance production APIs
+* 🎯 Managed tech + business responsibilities
+* 🚀 Recognized for fast delivery & communication
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-💻 **Backend** | 🌐 **Frontend** | 🗄️ **Database** | ⚙️ **Tools**
-
-</div>
-
-* 👨‍💻 Python (Django, DRF), Java (Spring Boot)
-* 🌐 React.js, TypeScript, Next.js
-* 🗄️ PostgreSQL, MySQL
-* ⚙️ Git, Docker, Maven, AI APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,django,spring,react,nextjs,ts,postgres,mysql,docker,git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered E-Commerce System
+### 🔹 AI E-Commerce
 
-✨ Smart recommendations + scalable APIs + business logic
+✔ AI recommendations | ✔ Scalable APIs | ✔ Production-ready
 
 ### 🔹 ERP System
 
-✨ Full workflow automation + modular architecture
+✔ Workflow automation | ✔ Modular architecture
 
-### 🔹 EV Infrastructure System (Confidential)
+### 🔹 EV Infrastructure
 
-✨ Real-time data + analytics + mapping logic
+✔ Real-time data | ✔ Analytics | ✔ Mapping logic
 
 ---
 
-## ⚡ Live Project Demos
+## ⚡ Live Projects
 
 <p align="center">
 
-🚀 AI E-Commerce → 🔗 [View in Repository](https://github.com/Seenu-Keshav) | 💻 Code Available in My GitHub
-📊 ERP Dashboard → 🔗 [View in Repository](https://github.com/Seenu-Keshav) | 💻 Code Available in My GitHub
-🚗 EV System → 🔒 Internal (Confidential Project)
+🚀 AI E-Commerce
+🔗 View in Repository | 💻 Code in GitHub
+
+📊 ERP Dashboard
+🔗 View in Repository | 💻 Code in GitHub
+
+🚗 EV System
+🔒 Confidential
 
 </p>
 
@@ -100,17 +82,17 @@
 
 ## 🎯 Why Hire Me?
 
-<div align="center">
-
-💎 *Not just a developer — a system builder*
-
-</div>
-
 * 🚀 Fast & production-ready delivery
 * 🧠 Strong system design mindset
-* 🔥 Handles complex real-world problems
-* 🤝 Clean communication & leadership skills
-* 📈 Trusted for business + tech decisions
+* 🔥 Solve real-world complex problems
+* 🤝 Professional communication
+* 📈 Business + tech understanding
+
+---
+
+## 🧠 Tech Philosophy
+
+> Build systems, not just features. Focus on scalability, performance, and real-world impact.
 
 ---
 
@@ -118,27 +100,25 @@
 
 <div align="center">
 
-<!-- 🔥 Main Stats -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=Seenu-Keshav&show_icons=true&theme=radical&hide_border=true" />
 
 <br/>
-
-<!-- 📈 Streak Stats -->
 
 <img src="https://streak-stats.demolab.com/?user=Seenu-Keshav&theme=radical&hide_border=true" />
 
 <br/>
 
-<!-- 🧠 Top Languages -->
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-Keshav&layout=compact&theme=radical&hide_border=true" />
 
-<br/>
+</div>
 
-<!-- 🏆 GitHub Trophies -->
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Seenu-Keshav&theme=radical&no-frame=true&row=1&column=6" />
+## 🌍 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seenu-Keshav&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -153,11 +133,9 @@
 
 <div align="center">
 
-🔥 *If you like my work, give a star ⭐ and let’s build something powerful together!* 🔥
+🔥 *Let’s build scalable systems together* 🔥
 
 </div>
-
-<!-- FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
