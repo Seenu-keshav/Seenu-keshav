@@ -90,9 +90,9 @@
 
 <p align="center">
 
-🚀 AI E-Commerce → (Add Link)
-📊 ERP Dashboard → (Add Link)
-🚗 EV System → Internal
+🚀 AI E-Commerce → 🔗 [View in Repository](https://github.com/Seenu-Keshav) | 💻 Code Available in My GitHub
+📊 ERP Dashboard → 🔗 [View in Repository](https://github.com/Seenu-Keshav) | 💻 Code Available in My GitHub
+🚗 EV System → 🔒 Internal (Confidential Project)
 
 </p>
 
@@ -118,9 +118,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seenu-Keshav&show_icons=true&theme=radical" />
+<!-- 🔥 Main Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-Keshav&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Seenu-Keshav&show_icons=true&theme=radical&hide_border=true" />
+
+<br/>
+
+<!-- 📈 Streak Stats -->
+
+<img src="https://streak-stats.demolab.com/?user=Seenu-Keshav&theme=radical&hide_border=true" />
+
+<br/>
+
+<!-- 🧠 Top Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-Keshav&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<!-- 🏆 GitHub Trophies -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=Seenu-Keshav&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -129,7 +147,7 @@
 ## 📫 Connect With Me
 
 * 🔗 GitHub: [https://github.com/Seenu-Keshav](https://github.com/Seenu-Keshav)
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: [https://www.linkedin.com/in/01keshav-kumar-220b59295/](https://www.linkedin.com/in/01keshav-kumar-220b59295/)
 
 ---
 
