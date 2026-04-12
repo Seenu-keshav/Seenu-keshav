@@ -1,112 +1,146 @@
-# 👋 Hi, I'm Keshav Kumar
+<!-- 🎨 CUSTOM BANNER -->
 
-![WhatsApp Image 2026-04-04 at 2 36 23 AM](https://github.com/user-attachments/assets/a9fcf35d-7b4b-4def-b655-418cf9a660a0)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Keshav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Full%20Stack%20|%20AI%20Builder&descAlignY=55&descSize=18" />
+</p>
 
+# 🚀 Keshav Kumar | Backend Developer | Full Stack Engineer | AI Integrator
 
-🚀 **Backend Developer | Full Stack Developer | API Specialist**
+<div align="center">
 
----
+<!-- 🔥 Animated Typing Intro -->
 
-## 💼 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+🔥;Full+Stack+Engineer+🚀;AI+Integrator+🤖;Building+Scalable+Systems+💡" />
 
-I am a **results-driven Backend Developer** with hands-on experience in building scalable APIs and real-world applications.
-I specialize in **Java & Python-based backend systems**, with strong knowledge of **databases, microservices, and system design**.
+<br/><br/>
 
-💡 I focus on writing **clean, optimized, and production-ready code** that solves real business problems.
+<!-- 🧿 Profile Views Counter -->
 
----
+<img src="https://komarev.com/ghpvc/?username=Seenu-Keshav&label=Profile%20Views&color=0e75b6&style=flat" />
 
-## 🛠 Tech Stack
+<br/><br/>
 
-### 🚀 Backend
+<!-- ⚡ COOL DEV GIF -->
 
-* Java (Spring Boot, Hibernate)
-* Python (Django, REST APIs)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
-### 🌐 Frontend
-
-* JavaScript (ES6+), Advanced Js, TypeScript, Next js
-* React.js
-
-### 🗄 Databases
-
-* MySQL
-* PostgreSQL
-
-### ⚙️ Tools & Technologies
-
-* Git & GitHub
-* REST API Development
-* Microservices Architecture
-* Maven
-* Postman
+</div>
 
 ---
 
-## 🔥 What I Do
+## 🧠 About Me
 
-* ⚡ Build scalable backend systems
-* 🔗 Design and develop RESTful APIs
-* 🧠 Solve complex problems using DSA (Java)
-* 🏗 Work on microservices-based architecture
-* 📊 Design optimized database schemas
+<div align="center">
+
+✨ *Turning real-world problems into scalable software systems* ✨
+
+</div>
+
+* 💼 Backend Developer & IT Lead at **Gizmo Space**
+* ⚙️ Expert in **Django, Spring Boot & System Design**
+* 🤖 Building **AI-powered real-world applications**
+* 🚗 Working on a **confidential EV infrastructure system**
+* 🎯 Obsessed with **performance + scalability + clean architecture**
+
+---
+
+## 🏅 Badges & Coding Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-green?style=for-the-badge&logo=geeksforgeeks" />
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+💻 **Backend** | 🌐 **Frontend** | 🗄️ **Database** | ⚙️ **Tools**
+
+</div>
+
+* 👨‍💻 Python (Django, DRF), Java (Spring Boot)
+* 🌐 React.js, TypeScript, Next.js
+* 🗄️ PostgreSQL, MySQL
+* ⚙️ Git, Docker, Maven, AI APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 AI-Powered E-Commerce Platform
+### 🔹 AI-Powered E-Commerce System
 
-* Intelligent product recommendations
-* Secure backend APIs
-* Full-stack architecture
+✨ Smart recommendations + scalable APIs + business logic
 
-### ⚙️ Spring Boot Microservices
+### 🔹 ERP System
 
-* API Gateway
-* Service Registry (Eureka)
-* Distributed system design
+✨ Full workflow automation + modular architecture
 
-### 💾 Database Engineering (MySQL & PostgreSQL)
+### 🔹 EV Infrastructure System (Confidential)
 
-* Query optimization
-* Schema design
-* Real-world use cases
+✨ Real-time data + analytics + mapping logic
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Live Project Demos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seenu-keshav&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-keshav&layout=compact&theme=tokyonight&cache_seconds=1800)
+🚀 AI E-Commerce → (Add Link)
+📊 ERP Dashboard → (Add Link)
+🚗 EV System → Internal
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Seenu-keshav&theme=tokyonight)
-
----
-
-## 🎯 Current Focus
-
-* Advanced Backend Development
-* System Design
-* Scalable Microservices
-* AI Integration in Applications and Software
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🎯 Why Hire Me?
 
-💼 LinkedIn: www.linkedin.com/in/01keshav-kumar-2  
-📧 Email: keshavdss851122@gmail.com  
-💻 GitHub: https://github.com/Seenu-keshav  
+<div align="center">
 
-* 💼 Open to Backend & Full Stack Opportunities
-* 🌍 Building real-world scalable systems
+💎 *Not just a developer — a system builder*
+
+</div>
+
+* 🚀 Fast & production-ready delivery
+* 🧠 Strong system design mindset
+* 🔥 Handles complex real-world problems
+* 🤝 Clean communication & leadership skills
+* 📈 Trusted for business + tech decisions
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Stats
 
-> I don’t just write code — I build systems that scale 🚀
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Seenu-Keshav&show_icons=true&theme=radical" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-Keshav&layout=compact&theme=radical" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 GitHub: [https://github.com/Seenu-Keshav](https://github.com/Seenu-Keshav)
+* 💼 LinkedIn: (Add your link)
+
+---
+
+<div align="center">
+
+🔥 *If you like my work, give a star ⭐ and let’s build something powerful together!* 🔥
+
+</div>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
